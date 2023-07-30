@@ -15,10 +15,9 @@ TrainMe es una aplicación web que te ayuda a llevar un estilo de vida saludable
 
 A continuación, se presentan algunas capturas de pantalla de la aplicación TrainMe:
 
-
+![app2](https://github.com/LuDevvv/TrainMeApp/assets/107328372/ea362a39-56b6-4a42-9e78-37a5b29d4584)
 ![Inicio de Sesión](https://github.com/LuDevvv/TrainMeApp/assets/107328372/1a14e215-8dae-425a-bf91-a378087b3718)
 ![app3](https://github.com/LuDevvv/TrainMeApp/assets/107328372/1d51aaf7-12d8-4ddf-a82f-e9f5114b85cc)
-![app2](https://github.com/LuDevvv/TrainMeApp/assets/107328372/ea362a39-56b6-4a42-9e78-37a5b29d4584)
 ![app4](https://github.com/LuDevvv/TrainMeApp/assets/107328372/71f40c47-2033-40ac-961a-4df7d0a61205)
 ![app5](https://github.com/LuDevvv/TrainMeApp/assets/107328372/3afee253-4e00-4bdb-9416-8f2112e0b20e)
-
+![app6](https://github.com/LuDevvv/TrainMeApp/assets/107328372/23ebbf6f-0e2e-4a79-9f4e-184df380636e)
